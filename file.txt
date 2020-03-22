@@ -1,1 +1,3 @@
 zmiana w pliku
+
+Experymentalna funkcja programu
