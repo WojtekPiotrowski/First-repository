@@ -1,3 +1,2 @@
 zmiana w pliku
 Zmiana dodana na GitHubie
-zmiana tylko w branchu master
