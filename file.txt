@@ -2,3 +2,4 @@ zmiana w pliku
 Zmiana dodana na GitHubie
 Zmiana tylko w branchu master
 edycja pliku w branchu master
+Plik niezgodny w branchu testing
